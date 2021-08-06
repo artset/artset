@@ -3,7 +3,7 @@
 - ✨ Class of 2021 at Brown, passionate about technology, visual media, and teaching. (she/her/hers)
 - 📚 Reads too many books and not enough, here's my [reading list](https://airtable.com/shrSrZz8k3wgypeVZ).
 - 🎈 I've kept a [digital sketchbook](https://www.instagram.com/blobgal/) for the past 5 years.
-- 🖌 Reach out to me at katherine_sang [at] brown [dot] e-dee-you
+- 🖌 Reach out to me at katherine_sang [at] alumni [dot] brown [dot] e-dee-you
 
 
 <!--
