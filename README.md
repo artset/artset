@@ -1,8 +1,9 @@
 ### Hello 👋
 
-- ✨ Class of 2021 at Brown, passionate about technology, visual media, and teaching. (she/her/hers)
-- 📚 Here's my [reading list](https://airtable.com/shrSrZz8k3wgypeVZ) and [digital sketchbook](https://www.instagram.com/blobgal/).
-- 🖌 Reach out to me at katherine_sang [at] alumni [dot] brown [dot] e-dee-you
+- ✨ Software engineer + designer + illustrator based in NYC. (she/her/hers)
+- I'm passionate about building, teaching, and craft. 
+- 📚 Here's my [digital sketchbook](https://www.instagram.com/blobgal/).
+- 🖌 Reach out to me at katherine_sang [at] alumni [dot] brown [dot] e-dee-you.
 
 
 <!--
