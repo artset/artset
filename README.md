@@ -1,7 +1,7 @@
 ### Hello 👋
 
 - ✨ Software engineer + designer + illustrator based in NYC. (she/her/hers)
-- I'm passionate about building, teaching, and craft. 
+- 🌱 I'm passionate about building, teaching, and craft. 
 - 📚 Here's my [digital sketchbook](https://www.instagram.com/blobgal/).
 - 🖌 Reach out to me at katherine_sang [at] alumni [dot] brown [dot] e-dee-you.
 
